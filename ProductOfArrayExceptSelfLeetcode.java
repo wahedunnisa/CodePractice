@@ -61,3 +61,5 @@ public class ProductOfArrayExceptSelfLeetcode {
 	}
 
 }
+
+// space - O(1), Time - O(N)
